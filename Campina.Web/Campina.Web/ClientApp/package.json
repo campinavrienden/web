@@ -1,0 +1,22 @@
+{
+  "name": "campina.web",
+  "version": "0.1.0",
+  "description": "Campina Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcsvriendenkring/web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vcsvriendenkring/web/issues"
+  },
+  "homepage": "https://github.com/vcsvriendenkring/web#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.1"
+  }
+}
